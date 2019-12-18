@@ -1,7 +1,7 @@
 # RealTimeSentimentAnalysisOnLeagueTweets
 Real-time Tweet sentiment analysis using Tweepy and Dash. The Tweets are currently specific for the use case of League of Legends. Specifically to track and understand the impact of the new champion releases.
 
-![Sett and Aphelios Sentiment Analysis preview](https://drive.google.com/file/d/126c9j8pZu6JSkv5oX8lWvatyupYplfHK/view?usp=sharing)
+![Sett and Aphelios Sentiment Analysis preview]()
 
 
 *Problem statement:* Social media mining can be useful in gathering public opinions about a product, tool, utility, movies, or even an upgrade or patch of a software during it's life cycle. There are various questions that can be asked and addressed to understand the public opinion, sentiment assocaited with a specific keyword or the trend shifts.
